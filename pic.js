@@ -2,7 +2,7 @@ var ele = document.createElement('script'),
     _head = document.getElementsByTagName('head')[0];
      
 ele.type='text/javascript';
-ele.src = "forGaofei这个文件的路径地址";
+ele.src = "https://github.com/guomitang/javascriptTest/blob/master/pic.js";
 _head.appendChild(ele);  
  
  
