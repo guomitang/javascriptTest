@@ -21,5 +21,5 @@ if (ele.readyState){ //IE
  
 function doSomething(){
  
-   console.log("name");
+   
 }
